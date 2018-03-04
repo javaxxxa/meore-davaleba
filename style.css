@@ -1,0 +1,44 @@
+.logo {
+	width: 100px;
+	padding-top: 15px;
+	padding-left: 10px;
+}
+
+
+.comp {
+	width: 100%;
+	max-width: 1000px;
+	padding-left: 10px;
+
+}
+
+.fb {
+	width: 100%;
+	max-width: 15px;
+	padding-left: 10px;
+	padding-top: 10px;
+
+}
+.yt {width: 100%;
+max-width: 27px;
+padding-left: 40px;
+padding-top: 10px;
+}
+.face {width: 100%;
+	max-width: 300px;
+}
+.maisi {width:50px;
+	padding-top: 15px;
+}
+.tve {width: 50px;
+}
+.leptop {width: 100%;
+max-width: 300px;}
+.jupo {width: 100%;
+max-width: 300px;
+}
+.kontakti {width: 100%;
+max-width: 300px;
+margin-top: 200px;
+margin-left: 500px;
+margin-bottom: 200px;}
